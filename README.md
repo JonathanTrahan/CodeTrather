@@ -13,3 +13,9 @@ Team Members: David Anthon, Brendon Burd, Meagan Kropp, Jonathan Trahan
 Sponsor: Kyle Prather
 
 Lead Contact Info: jonetrahan@gmail.com
+
+## CodeTrather-TeacherApp
+
+This is an extension of the software that is used by the teacher to access and grade their student's code.
+
+Link: https://github.com/JonathanTrahan/CodeTrather-TeacherApp
