@@ -16,6 +16,6 @@ Lead Contact Info: jonetrahan@gmail.com
 
 ## CodeTrather-TeacherApp
 
-This is an extension of the software that is used by the teacher to access and grade their student's code.
+This is an extension of the software that is used by the teacher to decrypt and grade their student's code.
 
 Link: https://github.com/JonathanTrahan/CodeTrather-TeacherApp
